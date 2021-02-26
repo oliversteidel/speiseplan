@@ -1,0 +1,33 @@
+{
+    "speise": [
+        { 
+            "name": "Spaghetti Napoli",
+            "zutaten": [
+                "Spaghetti",
+                "Tomatensauce",
+                "Zwiebeln",
+                "Knoblauch"
+            ]
+        },
+        {
+            "name": "Spaghetti Bolognese",
+            "zutaten": [
+                "Spaghetti",
+                "Hackfleisch",
+                "Tomatensauce",
+                "Zwiebeln",
+                "Knoblauch"
+            ]
+        },
+        {
+            "name":"Spaghetti Carbonara",
+            "zutaten": [
+                "Spaghetti",
+                "Eier",
+                "Schinken",                
+                "Zwiebeln",
+                "Bacon"
+            ]
+        }
+    ]
+}
