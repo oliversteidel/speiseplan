@@ -1,32 +1,44 @@
 {
     "speise": [
-        { 
-            "name": "Spaghetti Napoli",
-            "zutaten": [
-                "Spaghetti",
-                "Tomatensauce",
-                "Zwiebeln",
-                "Knoblauch"
+        {
+            "spaghetti_napoli": [
+                {
+                    "name": "Spaghetti Napoli",
+                    "zutaten": [
+                        "Spaghetti",
+                        "Tomatensauce",
+                        "Zwiebeln",
+                        "Knoblauch"
+                    ]
+                }
             ]
         },
         {
-            "name": "Spaghetti Bolognese",
-            "zutaten": [
-                "Spaghetti",
-                "Hackfleisch",
-                "Tomatensauce",
-                "Zwiebeln",
-                "Knoblauch"
+            "spaghetti_bolognese": [
+                {
+                    "name": "Spaghetti Bolognese",
+                    "zutaten": [
+                        "Spaghetti",
+                        "Hackfleisch",
+                        "Tomatensauce",
+                        "Zwiebeln",
+                        "Knoblauch"
+                    ]
+                }
             ]
         },
         {
-            "name":"Spaghetti Carbonara",
-            "zutaten": [
-                "Spaghetti",
-                "Eier",
-                "Schinken",                
-                "Zwiebeln",
-                "Bacon"
+            "spaghetti_carbonara": [
+                {
+                    "name": "Spaghetti Carbonara",
+                    "zutaten": [
+                        "Spaghetti",
+                        "Eier",
+                        "Schinken",
+                        "Zwiebeln",
+                        "Bacon"
+                    ]
+                }
             ]
         }
     ]

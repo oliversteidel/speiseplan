@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Speiseplan</title>
+</head>
+<body>
+    <div class="container">
+        <h1>Speiseplan</h1>
+    </div>
+    <script>
+        const getData = async function () {
+            const data = await fetch('https://gist.githubusercontent.com/Miserlou/c5cd8364bf9b2420bb29/raw/2bf258763cdddd704f8ffd3ea9a3e81d25e2c6f6/cities.json');
+            const result = await data.json();
+            console.log(result);
+        }
+
+        getData();
+    </script>
+</body>
+</html>
